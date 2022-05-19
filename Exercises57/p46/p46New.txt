@@ -1,0 +1,3 @@
+badger: 7
+mushroom: 2
+snake: 1
